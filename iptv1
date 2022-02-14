@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,m-net
- http://218.144.144.183:9981/stream/channelid/481666064.
+#EXTINF:-1  tvg-id="NDTVProfit.in" group-title="Business" tvg-logo="N/A",NDTV Profit
+https://ndtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/ndtv/live/ndtv_profit.smil/chunklist_w1438770647_b256000.m3u8
