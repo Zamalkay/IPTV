@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Undefined",M-NET BINGE THE HOME OF HBO
-http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/50366?checkedby:iptvcat.com
-#EXTINF:0 tvg-id=104 tvg-logo="https://m-net.dstv.com/page/m-net-movies/m-net%20movies%201" group-title="DSTV",M-Net Movies 1 HD
+#EXTINF:0 tvg-id="104" tvg-logo="https://teeveetee.blogspot.com/2010/09/multichoice-on-new-m-net-movies-1-hd.html" group-title="DSTV",M-Net Movies 1 HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/99451?checkedby:iptvcat.com
