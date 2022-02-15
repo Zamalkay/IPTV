@@ -1,3 +1,15 @@
 #EXTM3U
-#EXTINF:0 tvg-id="104" tvg-logo="https://teeveetee.blogspot.com/2010/09/multichoice-on-new-m-net-movies-1-hd.html" group-title="DSTV",M-Net Movies 1 HD
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="DSTV",M-Net Movies 1 HD
 http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/99451?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="DSTV",M-Net Movies 2 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/99446?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="DSTV",M-Net Movies 3 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/99448?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="DSTV",M-Net Movies 4 HD
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/99447?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="DSTV",M-NET CITY
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/14202?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="DSTV",M-NET EAST
+http://dm.4kplus.icu:2082/Taoufikd_253257/h3L6iIyu/12326?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="" group-title="DSTV",TLC_Sweden
+http://smartestv.vip:2095/ABHVYOP/2387998104/44938?checkedby:iptvcat.com
